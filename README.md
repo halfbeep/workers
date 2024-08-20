@@ -15,7 +15,6 @@ Worker 0 finished processing task 0
 Worker 1 finished processing task 1
 Worker 3 encountered error: ProcessingError("Task 3 failed to process")
 
-
 All tasks completed. Results:
 Task 0: Result { id: 0, output: "Task data 0", success: true }
 Task 1: Result { id: 1, output: "Task data 1", success: true }
