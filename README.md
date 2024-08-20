@@ -1,6 +1,6 @@
 ## workers
 
-\*\* output
+output:-
 
 Starting task scheduler with 4 workers...
 Worker 0 starting...
